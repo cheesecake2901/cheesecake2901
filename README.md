@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Ich bin Celine Hübler</h1>
 <h3 align="center">Eine leidenschaftliche Softwareentwicklerin</h3>
 
-- 🔭 Ich arbeite derzeit an einer **Chat-Application**
 - 🌱 Ich bin gerade dabei meine Fähigkeiten in Spring, HTML, CSS und JavaScript auszubauen
 
 
